@@ -4,8 +4,8 @@
 
 ## Sobre mí
 
-- 🔭 Actualmente estoy trabajando en proyectos de desarrollo web y diseño.
-- 🌱 Estoy aprendiendo nuevas tecnologías como React y Node.js.
+- 🔭 Actualmente estoy trabajando en proyectos de desarrollo de aps webs.
+- 🌱 Trabaco con tecnologías como React, Node.js, Laravel, Docker, Linux.
 - 👯 Busco colaborar en proyectos innovadores y desafiantes.
 - 💬 Pregúntame sobre desarrollo frontend, backend o linux.
 - 📫 Cómo contactarme: [heribertolord96@gmail.com](mailto:heribertolord96@gmail.com).
@@ -15,6 +15,12 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -41,7 +47,7 @@
 ## Contáctame
 
 - 📧 **Email**: [heribertolord96@gmail.com](mailto:heribertolord96@gmail.com)
-- 💼 **LinkedIn**: [Heriberto Lord](https://www.linkedin.com/in/heriberto-lord-XXXXXX/)
+- 💼 **LinkedIn**: [Heriberto Hernández](https://www.linkedin.com/in/heriberto-lord-XXXXXX/)
 - 🐦 **Twitter**: [@heribertolord96](https://twitter.com/heribertolord96)
 - 🌐 **Portafolio**: [https://heribertolord96.github.io](https://heribertolord96.github.io)
 
