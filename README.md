@@ -5,7 +5,7 @@
 ## Sobre mí
 
 - 🔭 Actualmente estoy trabajando en proyectos de desarrollo de aps webs.
-- 🌱 Trabaco con tecnologías como React, Node.js, Laravel, Docker, Linux.
+- 🌱 Trabajo con tecnologías como React, Node.js, Laravel, Docker, Linux.
 - 👯 Busco colaborar en proyectos innovadores y desafiantes.
 - 💬 Pregúntame sobre desarrollo frontend, backend o linux.
 - 📫 Cómo contactarme: [heribertolord@gmail.com](mailto:heribertolord@gmail.com).
