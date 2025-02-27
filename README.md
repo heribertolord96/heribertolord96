@@ -8,7 +8,7 @@
 - 🌱 Trabaco con tecnologías como React, Node.js, Laravel, Docker, Linux.
 - 👯 Busco colaborar en proyectos innovadores y desafiantes.
 - 💬 Pregúntame sobre desarrollo frontend, backend o linux.
-- 📫 Cómo contactarme: [heribertolord96@gmail.com](mailto:heribertolord96@gmail.com).
+- 📫 Cómo contactarme: [heribertolord@gmail.com](mailto:heribertolord@gmail.com).
 
 ## Tecnologías y Herramientas
 
@@ -24,19 +24,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Proyectos Destacados
 
-### Portafolio Personal
-- **Descripción**: Mi portafolio personal donde muestro mis proyectos, habilidades y experiencia.
-- **Enlace**: [https://heribertolord96.github.io](https://heribertolord96.github.io)
-
-### Proyecto 2
-- **Descripción**: Breve descripción del proyecto.
-- **Enlace**: [Enlace al proyecto](#)
-
-### Proyecto 3
-- **Descripción**: Breve descripción del proyecto.
-- **Enlace**: [Enlace al proyecto](#)
 
 ## Estadísticas de GitHub
 
@@ -46,9 +34,8 @@
 
 ## Contáctame
 
-- 📧 **Email**: [heribertolord96@gmail.com](mailto:heribertolord96@gmail.com)
-- 💼 **LinkedIn**: [Heriberto Hernández](https://www.linkedin.com/in/heriberto-lord-XXXXXX/)
-- 🐦 **Twitter**: [@heribertolord96](https://twitter.com/heribertolord96)
+- 📧 **Email**: [heribertolord@gmail.com](mailto:heribertolord@gmail.com)
+- 💼 **LinkedIn**: [Heriberto Hernández]([https://www.linkedin.com/in/heriberto-lord-XXXXXX/](https://www.linkedin.com/in/heriberto-hernandez-torres-7a5789133/))
 - 🌐 **Portafolio**: [https://heribertolord96.github.io](https://heribertolord96.github.io)
 
 ---
